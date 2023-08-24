@@ -1,35 +1,24 @@
-_id: req_87a4376a67594a02b91fdadf2299ba41
+_id: req_91b93abd2c9e4a0e9d87d6c468aea2be
 type: Request
 parentId: wrk_6b95eaecacdb474f860238e59211d81e
-modified: 1692884189414
-created: 1692881597218
+modified: 1692884197765
+created: 1692883877780
 url: https://parseapi.back4app.com/parse/classes/Usuario/SXGYhJXGB6
-name: PUT Usuario
+name: DELETE Usuario
 description: ""
-method: PUT
-body:
-  mimeType: application/json
-  text: |-
-    {
-    	"name": "azul",
-    	"email": "azul@gmail.com"
-    }
+method: DELETE
+body: {}
 parameters: []
 headers:
-  - id: pair_07d7d38e53ea46f9a1514c1996e43921
-    name: X-Parse-Application-Id
+  - name: X-Parse-Application-Id
     value: Uo92ESucgrVXGpiBMxLSzdPXjwyv1ycOvyhfzQVY
-    description: ""
-  - id: pair_993d71714cd04b7b8119f67980e98b4f
+    id: pair_d9e521e2208649aaaaa1a4977be5d016
+  - id: pair_8bcd267bd37f4341abf9399bb9e3fb81
     name: X-Parse-REST-API-Key
     value: 0s6qIEiCijPNcXFHL2zkZacTWdGJtzmLhssLzRrC
     description: ""
-  - id: pair_cf02946df2804b51a340252cc5316abf
-    name: Content-Type
-    value: application/json
-    description: ""
 authentication: {}
-metaSortKey: -1692881597218
+metaSortKey: -1674716124848.5
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
