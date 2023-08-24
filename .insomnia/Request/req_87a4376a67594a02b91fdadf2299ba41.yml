@@ -1,0 +1,21 @@
+_id: req_87a4376a67594a02b91fdadf2299ba41
+type: Request
+parentId: wrk_6b95eaecacdb474f860238e59211d81e
+modified: 1692881820553
+created: 1692881597218
+url: ""
+name: POST Usuarios
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1692881597218
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
