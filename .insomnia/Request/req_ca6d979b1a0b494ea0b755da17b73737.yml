@@ -1,0 +1,28 @@
+_id: req_ca6d979b1a0b494ea0b755da17b73737
+type: Request
+parentId: wrk_6b95eaecacdb474f860238e59211d81e
+modified: 1692842283403
+created: 1692841011615
+url: https://parseapi.back4app.com/parse/classes/Usuario/
+name: Listar Usuarios
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: X-Parse-Application-Id
+    value: Uo92ESucgrVXGpiBMxLSzdPXjwyv1ycOvyhfzQVY
+    id: pair_d9e521e2208649aaaaa1a4977be5d016
+  - id: pair_8bcd267bd37f4341abf9399bb9e3fb81
+    name: X-Parse-REST-API-Key
+    value: 0s6qIEiCijPNcXFHL2zkZacTWdGJtzmLhssLzRrC
+    description: ""
+authentication: {}
+metaSortKey: -1692841011615
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
